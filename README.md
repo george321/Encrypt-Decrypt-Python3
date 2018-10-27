@@ -1,7 +1,7 @@
 
 # Encrypt-Decrypt-Python3
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/george321/Tip-forwarder)
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/george321/Encrypt-Decrypt-Python3)
 
 With Encrypt-Decrypt-Python we can create RSA keys encrypt data with them and decrypt data.
 
