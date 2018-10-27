@@ -4,7 +4,6 @@
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/george321/Tip-forwarder)
 
 With Encrypt-Decrypt-Python we can create RSA keys encrypt data with them and decrypt data.
-## How to run in background
 
 ## Requirements 
 We need Python3
